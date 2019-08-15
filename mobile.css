@@ -1,0 +1,273 @@
+
+  @media (max-width: 640px){
+
+.header {
+  position: relative;
+  background-image: url("https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/football_767.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  }
+          
+.header::after {
+  content: "";
+  background-color: #0c0d2f;
+       
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+        
+  opacity: 0.9;
+  }
+
+.title-1 {
+  text-transform: uppercase;  
+  font-size: 2em;
+  font-weight: bold; 
+  color: #ffffff; 
+  padding-right: 0.8em;
+  margin-left: 0.7em;
+  margin-top: 4em;
+  }
+    
+.title-2 {
+  text-transform: uppercase;  
+  font-size: 2em;
+  font-weight: bold; 
+  color: #ffffff;
+  margin-top: 4em;
+  }
+
+.title-3 {
+  padding-top: 0.3em;
+  }
+
+.buttons {
+  margin-top: 1em;
+  width: 18.7em;
+  height: 2.7em;
+  }
+
+.group-button {
+  margin: 0 auto;
+  padding-top: 6em; 
+  padding-bottom: 5.6em; 
+  }
+
+.icon_social {
+  width: 24px;
+  height: 24px;
+  fill:#ffffff;
+  padding-right: 6px;
+  margin-top: -4px; /*?*/
+  }
+      
+.text_icon{
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  padding-top: 0.8em;
+  width: 120px;
+  }
+
+.app_text {
+  font-size: 0.6em;
+  text-transform: uppercase;
+  text-align: left;
+  line-height: 0.5em;
+  }
+
+.app {
+  font-weight: bold;
+  padding-top: 0.8em;
+  }
+
+.pic_active {
+  background-image: url("https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/be-active_640.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+    
+  height: 352px;
+  box-sizing: border-box;
+  }
+
+.find_contact {
+  background-image: url("https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/find-contact_640.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+      
+  height: 352px;
+  box-sizing: border-box;
+  }
+
+.work_it {
+  background-image: url("https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/work-it_640.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+        
+  height: 352px;
+  box-sizing: border-box;
+  }
+    
+  
+    .number_fon {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      width: 70px;
+      height: 70px;
+      background-color: #5e42b0;
+      
+      position: relative;
+      margin-top: -60px;
+    }
+
+    .number_active {
+      color: #ffffff;
+      font-weight: bold;
+      height: 1.5em;
+      border-bottom: 4px #8f7bc8 solid;
+    }
+
+    /*Style fonts*/
+    .card-name {
+      font-size: 1.5em;
+      font-weight: bold;
+      margin: 22px 0px;
+      letter-spacing: 0.1em;
+    } 
+
+    .card-name-2 {
+      font-size: 1.9em;
+      font-weight: bold;
+      color: #e7e7e7;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    .card-name-2 {
+      font-size: 1.9em;
+      font-weight: bold;
+      color: #e7e7e7;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    h1 {
+      font-size: 3.4em;
+      text-transform: uppercase;
+      color: #e7e7e7;
+      margin-left: 0.4em;
+   }
+
+
+    /* Athlets*/
+    .footballer {
+      background-image: url("https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/footballer_192.png");
+      background-repeat: no-repeat;
+      background-size: auto;
+      width: 192px;
+      height: 281px;
+      
+      position: relative;
+      margin: 0 auto;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 1;
+    }
+  
+    .bascketballer {
+      background-image: url("https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/basketballer_302.png");
+      background-repeat: no-repeat;
+      background-size: auto;
+      width: 310px;
+      height: 300px;
+      
+      position: relative;
+      margin: auto;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 1;
+    }
+
+    .number , .number-2, .number-2_1 {
+    margin-right: 1rem;
+  }
+    .card-1 {
+      margin-top: -5rem;
+    }
+  }
+
+/* footer*/ 
+.footer {
+  position: relative;
+  background-image: url("https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/game_767.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  }
+  
+.footer::after {
+  content: "";
+  background-color: #0c0d2f;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  opacity: 0.9;
+}
+
+.big_icon {
+  fill: #ffffff;
+  width: 4em;
+  height: 3.2em;
+  margin-top: 1em;
+}
+
+.big_button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  background: linear-gradient(90deg, #50329c, #5e3db3, #7751db);
+  width: 76px;
+  height: 76px;
+  border-radius: 15px;
+  margin: 0 auto;
+  margin-top: 6.7em
+}
+
+.text-footer {
+  margin-top: 4em;
+  flex-wrap: wrap;
+}
+
+.title-footer-1 {
+  color: #ffffff;
+  font-size: 2.1em;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.title-footer-2 {
+  color: #9b8ec1;
+  font-size: 0.9em;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+}
+
+.logo-footer {
+  margin-bottom: 0.7em;
+}

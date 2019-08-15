@@ -1,0 +1,155 @@
+/*Основные*/
+@font-face {
+    font-family: open sans;
+    src: url(https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Bold.woff);
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: open sans;
+    src: url(https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Regular.woff);
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  body, ul { 
+    font-family: open sans, sans-serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+  }
+  
+  a { 
+    font-family: opensans, sans-serif;
+    font: inherit;
+    color: inherit;
+    text-decoration: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+  }
+  
+  p {
+    margin:0;
+    padding: 0;
+  }
+
+  button {
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+  }
+
+  /*Блок 1 - сиреневый*/
+  .block-1 {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    position: relative;
+    z-index: 2;
+  } 
+
+.logo {
+    fill: #ffffff;
+    width: 133px;
+    height: 36px;
+    z-index: 1;
+    margin: 0 auto;
+    margin-top: 33px;
+
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; 
+    flex-direction: row;
+}
+
+.buttons {
+    background-color: #5e42b0;
+    border-radius: 20px;
+    color: #ffffff;
+    text-transform: uppercase;
+  }
+
+
+   /*Athlets. Players*/
+
+  .header-article {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .card-1 {
+    background-color: #fafafa;
+    padding: 4em 1em 2.6em 1em; 
+    box-sizing: border-box;
+  }
+  
+  .card-2 {
+    background-color: #f5f4f9;
+    padding:  2.6em 1em 2.6em 1em; 
+    box-sizing: border-box;
+  }
+  
+  .card-3 {
+    background-color: #5e42b0;
+    padding:  2.6em 1em 2.6em 1em; 
+    box-sizing: border-box;
+    color: #ffffff;
+    letter-spacing: 0.05em;
+  }
+
+  .card-3_1 {
+    background-color: #090c35;
+    padding:  2.6em 1em 2.6em 1em; 
+    box-sizing: border-box;
+    color: #ffffff;
+    letter-spacing: 0.05em;
+  }
+  
+  .card-name {
+    text-transform: uppercase;
+    color: #c1c1c1; 
+  }
+
+  .card-content {
+    color: #000000;
+    letter-spacing: 0.05em;
+    
+  }
+  
+.number {
+  color: #000000;
+  font-weight: bold;
+  border-bottom: 4px #5e42b0 solid;
+  height: 1.5em;
+  }
+  
+.number-2 {
+  color: #000000;
+  font-weight: bold;
+  border-bottom: 4px #ffffff solid;
+  }
+
+.number-2_1 {
+  color: #5e42b0;
+  font-weight: bold;
+  border-bottom: 4px #ffffff solid;
+  }
+  
+.section_body {
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-bottom: 5.5em;
+  }
