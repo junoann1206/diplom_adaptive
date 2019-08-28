@@ -15,7 +15,7 @@ h2 {
 
 .header {
   position: relative;
-  background-image: url("/img/football_767.jpg");
+  background-image: url("/diplom_adaptive/img/football_767.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -179,7 +179,7 @@ h2 {
 /* footer*/ 
 .footer {
   position: relative;
-  background-image: url("/img/game_767.jpg");
+  background-image: url("/diplom_adaptive/img/game_767.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
