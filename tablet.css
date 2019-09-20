@@ -1,0 +1,242 @@
+
+  @media (min-width: 641px) and (max-width: 960px){
+
+h1 {
+  font-size: 64px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+    
+h2 {
+  color:#e7e7e7;
+  font-size: 80px;
+  font-weight: bold;
+  text-transform: uppercase; 
+  margin-left: 15px;
+}
+
+.header {
+  position: relative;
+  background-image: url("https://raw.githubusercontent.com/junoann1206/diplom_adaptive/master/img/football_767.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  }
+          
+.header::after {
+  content: "";
+  background-color: #0c0d2f;   
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+        
+  opacity: 0.9;
+  }
+
+.logo {
+  width: 205px;
+  height: 56px;
+}
+    
+.text {
+  margin-top: 100px;
+  width: 550px;
+} 
+.title-2 {
+  padding-left: 96px;
+}
+
+ /*Кнопки*/ 
+.buttons:nth-child(n) {
+  margin-top: 1.3em;
+  width: 20.8em;
+  height: 5.4em;
+  margin-right: 2em;
+  margin-left: 1em;
+  }
+
+.buttons:last-child {
+  margin-right: 0em;
+}
+
+.group-button {
+  margin: 0 auto;
+  padding-top: 300px; 
+  padding-bottom: 90px; 
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  }
+
+.icon_social {
+  width: 44px;
+  height: 44px;
+  fill:#ffffff;
+  padding-right: 6px;
+  }
+      
+.text_icon{
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15px;
+  width: 200px;
+  }
+
+.app_text {
+  font-size: 14px;
+  text-transform: uppercase;
+  text-align: left;
+  line-height: 0.5em;
+  }
+
+.app {
+  font-weight: bold;
+  padding-top: 10px;
+  }
+
+/*Style fonts*/
+
+.card-content {
+  font-size: 24px;
+  line-height: 1.5em;
+}
+
+/* Athlets*/
+.sportmen {
+  display: flex;
+  flex-direction: row;
+  margin-top: 86px;
+}
+ 
+.pic_football {
+margin-top: 86px;
+margin-left: -150px;
+}
+
+.pic_bascket {
+
+  float: right;
+  }
+  
+.number , .number-2, .number-2_1 {
+  margin-right: 15px;
+}
+
+.card-content-sportmen {
+  color: #000000;
+  letter-spacing: 0.05em; 
+  line-height: 1.8em;
+  font-size: 16px;
+}
+
+.card-content-sportmen_1 {
+  color: #ffffff;
+  letter-spacing: 0.05em; 
+  font-size: 16px;
+}
+
+.card-name {
+font-size: 32px;
+letter-spacing: 0.1em;
+}
+
+/*be active*/
+
+.number_fon {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 116px;
+  height: 116px;
+  background-color: #5e42b0;
+        
+  position: relative;
+  margin-top: -60px;
+  margin-left: 15px;
+}
+  
+.number_active {
+  color: #ffffff;
+  font-weight: bold;
+  height: 36px;
+  border-bottom: 4px #8f7bc8 solid;
+  font-size: 24px;
+}
+
+
+/* footer*/ 
+.footer {
+  position: relative;
+  background-image: url("https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/game_767.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  }
+  
+.footer::after {
+  content: "";
+  background-color: #0c0d2f;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  opacity: 0.9;
+}
+
+.big_icon {
+  fill: #ffffff;
+  width: 7em;
+  height: 5.9em;
+  margin-top: 1em;
+}
+
+.big_button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  background: linear-gradient(90deg, #50329c, #5e3db3, #7751db);
+  width: 130px;
+  height: 136px;
+  border-radius: 30px;
+  margin: 0 auto;
+  margin-top: 9em;
+}
+
+.title-footer-1 {
+  color: #ffffff;
+  font-size: 80px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.title-footer-2 {
+  color: #9b8ec1;
+  font-size: 36px;
+  text-transform: uppercase;
+}
+
+.logo-footer {
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.text-footer {
+  padding-top: 82px;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  text-align: center;
+}
