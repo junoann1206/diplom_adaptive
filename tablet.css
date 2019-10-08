@@ -120,12 +120,15 @@ h2 {
   width: 100%;
 }
 .pic_football {
-margin-top: 86px;
-margin-left: -150px;
+  position: absolute;
+  margin-top: 40px;
 }
 
+
 .pic_bascket {
-  float: right;
+  margin-top: -160px;
+  position: absolute;
+  right: 0;
   }
   
 .number , .number-2, .number-2_1 {
