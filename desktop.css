@@ -120,7 +120,8 @@ h2 {
 }
 
 .sportmen-desktop {
-  margin-top: 200px;
+  width: 100%;
+  top: 200px;
 }
 
 .athlets-desktop {
@@ -150,6 +151,7 @@ margin-top: -160px;
 position: absolute;
 right: 0;
 }
+    
 .number , .number-2, .number-2_1 {
   margin-right: 15px;
 }
