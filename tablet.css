@@ -119,18 +119,28 @@ h2 {
   margin-top: 200px;
   width: 100%;
 }
+    
 .pic_football {
   position: absolute;
   margin-top: 40px;
 }
-
-
+    
 .pic_bascket {
   margin-top: -160px;
   position: absolute;
   right: 0;
   }
-  
+.card_1-desktop {
+  padding-left: 700px;
+}
+
+.card_2-desktop {
+  padding-left: 700px;
+}
+
+.card_3-desktop {
+  padding-left: 700px;
+}  
 .number , .number-2, .number-2_1 {
   margin-right: 15px;
 }
