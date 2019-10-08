@@ -115,13 +115,12 @@ h2 {
 .sportmen {
   display: flex;
   flex-direction: row;
-  width: 1500px;
+  width: 100%;
   margin: 0 auto;
 }
 
 .sportmen-desktop {
-  width: 1500px;
-  margin: 0 auto;
+  margin-top: 200px;
 }
 
 .athlets-desktop {
@@ -129,14 +128,28 @@ h2 {
 }
 
 .pic_football {
+  position: absolute;
   margin-top: 40px;
 }
 
+.card_1-desktop {
+  padding-left: 700px;
+}
+
+.card_2-desktop {
+  padding-left: 700px;
+}
+
+.card_3-desktop {
+  padding-left: 700px;
+}
+
+
 .pic_bascket {
 margin-top: -160px;
-float: right;
-  }
-  
+position: absolute;
+right: 0;
+}
 .number , .number-2, .number-2_1 {
   margin-right: 15px;
 }
