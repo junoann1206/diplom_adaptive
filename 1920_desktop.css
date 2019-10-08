@@ -163,11 +163,33 @@ letter-spacing: 0.1em;
 .be_active_desktop {
   display: flex;
   flex-direction: row;
+  width: 100%;
 }
 
+.photo_desktop {
+  width: 50%;
+}
+
+.pic_active {
+  width: 100%;
+}
+
+.find_contact {
+  width: 50%;
+}
 
 .find_contact_2 {
-float: right;
+  width: 100%;
+}
+
+.work_it {
+  width: 50%;
+}
+
+.be_active_find-contact {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
 }
 
 .number_fon {
@@ -184,13 +206,6 @@ float: right;
   z-index:1;
 }
  
-.number_fon_desktop {
-  float: right;
-  margin-right: -84px;
-  margin-top: 200px;
-}
-
-
 .number_active {
   display: flex;
   align-items: center;
@@ -208,14 +223,9 @@ float: right;
 
 .text_desktop_find {
   padding-left: 132px;
-  padding-top: 250px;
+  margin-top: -130px;
   width: 600px;
 }
-
-.be_active_find-contact {
-  height: 783px;
-}
-
 /* footer*/ 
 .footer {
   position: relative;
