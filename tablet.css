@@ -113,15 +113,18 @@ h2 {
   display: flex;
   flex-direction: row;
   margin-top: 86px;
+  width: 100%
 }
- 
+ .sportmen-desktop {
+  margin-top: 200px;
+  width: 100%;
+}
 .pic_football {
 margin-top: 86px;
 margin-left: -150px;
 }
 
 .pic_bascket {
-
   float: right;
   }
   
