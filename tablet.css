@@ -165,7 +165,7 @@ letter-spacing: 0.1em;
 
 /*be active*/
 
-.number_fon {
+.be-active-number {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -177,15 +177,14 @@ letter-spacing: 0.1em;
   position: relative;
   margin-top: -60px;
   margin-left: 15px;
-}
   
-.number_active {
   color: #ffffff;
   font-weight: bold;
   height: 36px;
   border-bottom: 4px #8f7bc8 solid;
   font-size: 24px;
 }
+  
 
 
 /* footer*/ 
