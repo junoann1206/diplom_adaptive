@@ -10,11 +10,9 @@
       color:#e7e7e7;
       font-size: 50px;
       font-weight: bold;
-      text-transform: uppercase; 
-      
+      text-transform: uppercase;  
     }
-
-
+    
 .header {
   position: relative;
   background-image: url("https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/football_767.jpg");
@@ -110,14 +108,11 @@
       position: relative;
       margin-top: -60px;
       margin-left: 15px;
-    }
-
-    .number_active {
       color: #ffffff;
       font-weight: bold;
-      height: 1.5em;
       border-bottom: 4px #8f7bc8 solid;
     }
+
 
     /*Style fonts*/
     .card-name {
