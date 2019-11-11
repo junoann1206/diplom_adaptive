@@ -175,9 +175,36 @@ letter-spacing: 0.1em;
 }
 
 /*be active*/
+.be-active-text {
+  width: 50%;
+  box-sizing: border-box;
+  padding: 20px 30px 20px 150px;
+  position: relative;
+}
+
+.be-active-number {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  transform: translateX(-50%);
+  display: flex;
+  width: 168px;
+  height: 155px;
+  background-color: #5e42b0;
+  color: #fff;
+}
+
+.be-active-number span {
+  margin: auto;
+}    
+    
+    
+    
+    
 .be_active_desktop {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
   width: 100%;
 }
 
