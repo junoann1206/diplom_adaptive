@@ -195,6 +195,7 @@ letter-spacing: 0.1em;
 }
 
 .be-active-text {
+  top: 50%;
   width: 50%;
   box-sizing: border-box;
   padding: 20px 30px 20px 150px;
