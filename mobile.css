@@ -97,7 +97,8 @@
 .pic_active , .find_contact , .work_it{
   height: 351px;
   }
-    .number_fon {
+        
+    .be-active-number {
       display: flex;
       flex-direction: row;
       justify-content: center;
