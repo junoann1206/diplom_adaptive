@@ -198,7 +198,14 @@
 
 <li class="be-active"> 
   <div class="be-active-image">
-    <img src="//picsum.photos/1024/779" alt="">
+    <picture>
+        <source srcset="/diplom_adaptive/img/work-it_640.jpg" media="(max-width: 640px)">
+        <source srcset="/diplom_adaptive/img/work-it_960.jpg" media="(min-width: 641px) and (max-width: 960px)">
+        <source srcset="/diplom_adaptive/img/work-it_1024.jpg" media="(min-width: 961px) and (max-width: 1920px)"> 
+        <source srcset="/diplom_adaptive/img/work-it_1024.jpg" media="(min-width:1920px)">
+    
+        <img srcset="/diplom_adaptive/img/work-it.jpg" alt="work-it">
+    </picture>    
   </div>
   
   <div class="be-active-text">
