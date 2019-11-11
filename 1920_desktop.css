@@ -175,6 +175,20 @@ letter-spacing: 0.1em;
 }
 
 /*be active*/
+    .be_active {
+   display: flex;
+  justify-content: space-between;
+}
+
+.be-active-image {
+  width: 50%;
+}
+
+.be-active-image picture {
+  width: 100%;
+}
+  
+    
 .be-active-text {
   width: 50%;
   box-sizing: border-box;
@@ -204,7 +218,6 @@ letter-spacing: 0.1em;
 .be_active_desktop {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   width: 100%;
 }
 
