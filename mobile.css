@@ -128,7 +128,13 @@
       font-weight: bold;
       border-bottom: 4px #8f7bc8 solid;
     }
+.be-active-image {
+  width: 50%;
+}
 
+.be-active-image img {
+  width: 100%;
+}
     
 
     /*Style fonts*/
@@ -181,7 +187,6 @@
 
     .header-text-athlets {
       position: absolute;
-     
       margin-left: 15px;
     }
     .number , .number-2, .number-2_1 {
@@ -191,7 +196,6 @@
       margin-top:-50px;
       padding-top: 50px;
     }
-  }
 
 /* footer*/ 
 .footer {
