@@ -121,11 +121,11 @@ h2 {
 
 .sportmen-desktop {
   width: 100%;
-  top: 200px;
+  margin-top: 200px;
 }
 
 .athlets-desktop {
-  margin-top: 116px;
+  margin-top: 0px;
 }
 
 .pic_football {
@@ -309,4 +309,5 @@ letter-spacing: 0.1em;
   flex-wrap: wrap;
   margin: 0 auto;
   text-align: center;
+}
 }
