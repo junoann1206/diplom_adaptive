@@ -175,9 +175,7 @@
     }
     
     .athlets-desktop {
-      position: absolute;
-      margin-left: 15px;
-      top: -500px;
+      margin-top: 50px;
     }
     
     .pic_football {
@@ -192,8 +190,9 @@
     }
 
     .header-text-athlets {
-      padding-top: 50px;
+      position: absolute;
       margin-left: 15px;
+      top: -500px;
     }
     .number , .number-2, .number-2_1 {
     margin-right: 15px;
