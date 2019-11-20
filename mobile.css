@@ -175,7 +175,9 @@
     }
     
     .athlets-desktop {
-    margint-top: 300px;
+      position: absolute;
+      margin-left: 15px;
+      top: -500px;
     }
     
     .pic_football {
