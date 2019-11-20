@@ -114,7 +114,7 @@ h2 {
 /* Athlets*/
 .sportmen {
   display: flex;
-  flex-direction: row;
+  
   width: 100%;
   margin: 0 auto;
 }
@@ -238,20 +238,7 @@ letter-spacing: 0.1em;
 
 .be-active-number-02 span {
   margin: auto;
-}
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+}    
     
 /* footer*/ 
 .footer {
@@ -320,4 +307,5 @@ letter-spacing: 0.1em;
   flex-wrap: wrap;
   margin: 0 auto;
   text-align: center;
+}
 }
