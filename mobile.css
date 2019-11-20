@@ -173,7 +173,10 @@
       display: flex;
       flex-direction: column;
     }
-
+    .athlets-desktop {
+    margint-top: 80px;
+    }
+    
     .pic_football {
       margin: 0 auto;
       margin-top: 83px;
