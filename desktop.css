@@ -121,9 +121,13 @@ h2 {
 
 .sportmen-desktop {
   width: 100%;
-  margin-top: 250px;
+  margin-top: 0px;
 }
-
+    
+.header_block{
+  margin-top: 50px;
+}  
+    
 .athlets-desktop {
   margin-top: 50px;
 }
