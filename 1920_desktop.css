@@ -217,9 +217,14 @@ letter-spacing: 0.1em;
   color: #fff;
   font-weight: bold;
   font-size: 28px;
-  border-bottom: 4px #8f7bc8 solid;
 }
 
+.border-number {
+  border-bottom: 4px #8f7bc8 solid;
+}    
+
+    
+    
 .be-active-number-02 {
   position: absolute;
   top: 50px;
