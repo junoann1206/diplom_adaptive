@@ -271,13 +271,21 @@ letter-spacing: 0.1em;
 
 .group-button-desktop {
   margin: 0 auto;
-
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: row;
   }    
-       
+
+ .group-button-footer {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  }
+    
+    
 .big_icon {
   fill: #ffffff;
   width: 7em;
