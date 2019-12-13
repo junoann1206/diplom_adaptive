@@ -269,6 +269,17 @@ letter-spacing: 0.1em;
   opacity: 0.9;
 }
 
+.group-button-desktop {
+  margin: 0 auto;
+  padding-top: 300px; 
+  padding-bottom: 90px; 
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  }    
+       
 .big_icon {
   fill: #ffffff;
   width: 7em;
