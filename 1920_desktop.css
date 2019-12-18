@@ -275,6 +275,7 @@ letter-spacing: 0.1em;
   justify-content: center;
   align-items: center;
   flex-direction: row;
+  margin-top: 230px;
   }    
 
  .group-button-footer {
@@ -283,6 +284,8 @@ letter-spacing: 0.1em;
   justify-content: center;
   align-items: center;
   flex-direction: row;
+  margin-top: 150px;
+  margin-bottom: 260px;
   }
     
     
