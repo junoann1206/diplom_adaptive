@@ -270,11 +270,30 @@ letter-spacing: 0.1em;
   opacity: 0.9;
 }
 
+.group-button-desktop {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 230px;
+  }    
+
+ .group-button-footer {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin-top: 150px;
+  margin-bottom: 260px;
+  }
+    
+    
 .big_icon {
   fill: #ffffff;
-  width: 7em;
-  height: 5.9em;
-  margin-top: 1em;
+  width: 106px;
+  height: 88px;
 }
 
 .big_button {
@@ -282,13 +301,12 @@ letter-spacing: 0.1em;
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  padding-top: -5px;
 
   background: linear-gradient(90deg, #50329c, #5e3db3, #7751db);
   width: 130px;
   height: 136px;
   border-radius: 30px;
-  margin: 0 auto;
-  margin-top: 9em;
 }
 
 .title-footer-1 {
@@ -303,6 +321,7 @@ letter-spacing: 0.1em;
   color: #9b8ec1;
   font-size: 36px;
   text-transform: uppercase;
+  padding-left: 15px;
 }
 
 .logo-footer {
@@ -313,7 +332,7 @@ letter-spacing: 0.1em;
 .text-footer {
   padding-top: 82px;
   flex-wrap: wrap;
-  margin: 0 auto;
-  text-align: center;
+  text-align: left;
 }
 }
+
