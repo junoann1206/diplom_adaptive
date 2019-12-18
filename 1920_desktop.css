@@ -291,8 +291,8 @@ letter-spacing: 0.1em;
     
 .big_icon {
   fill: #ffffff;
-  width: 7em;
-  height: 5.9em;
+  width: 106px;
+  height: 88px;
 }
 
 .big_button {
@@ -300,6 +300,7 @@ letter-spacing: 0.1em;
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  margin-top: -20px;
 
   background: linear-gradient(90deg, #50329c, #5e3db3, #7751db);
   width: 130px;
