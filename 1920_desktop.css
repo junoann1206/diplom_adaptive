@@ -10,12 +10,12 @@ h1 {
     
 h2 {
   color:#e7e7e7;
-  font-size: 60px;
+  font-size: 80px;
   font-weight: bold;
   text-transform: uppercase; 
   margin-left: 15px;
 }
-
+ 
 .header {
   position: relative;
   background-image: url("https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/football_1920.jpg");
@@ -173,10 +173,18 @@ h2 {
 }
 
 .card-name {
-font-size: 32px;
+font-size: 36px;
 letter-spacing: 0.1em;
 }
 
+.athlets_players {
+ margin-left: 190px;
+ margin-right: 190px;
+}
+    
+    
+    
+    
 /*be active*/
 .be-active {
   display: flex;
