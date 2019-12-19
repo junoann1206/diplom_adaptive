@@ -243,7 +243,19 @@
   margin: 0 auto;
   margin-top: 6.7em
 }
-
+    
+.group-button-footer {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 150px;
+  margin-bottom: 260px;
+  }
+    
+    
+    
 .text-footer {
   padding-top: 82px;
   flex-wrap: wrap;
