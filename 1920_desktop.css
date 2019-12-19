@@ -126,6 +126,7 @@ h2 {
  
 .header_block{
   margin-top: 50px;
+  margin-left: 190px; 
 }  
     
 .athlets-desktop {
@@ -139,17 +140,17 @@ h2 {
 }
     
 .card_1-desktop {
-  padding-left: 800px;
+  padding-left: 700px;
   padding-right: 190px;
 }
 
 .card_2-desktop {
-  padding-left: 800px;
+  padding-left: 700px;
   padding-right: 190px;
 }
 
 .card_3-desktop {
-  padding-left: 800px;
+  padding-left: 700px;
   padding-right: 190px;
 }
     
