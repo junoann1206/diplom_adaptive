@@ -135,22 +135,27 @@ h2 {
 .pic_football {
   position: absolute;
   margin-top: 40px;
+  margin-left: 190px;
 }
     
 .card_1-desktop {
   padding-left: 700px;
+  margin-right: 190px;
 }
 
 .card_2-desktop {
   padding-left: 700px;
+  margin-right: 190px;
 }
 
 .card_3-desktop {
   padding-left: 700px;
+  margin-right: 190px;
 }
     
 .pic_bascket {
   margin-top: -160px;
+  margin-left: 190px;
   position: absolute;
   right: 0;
 }
@@ -176,13 +181,6 @@ h2 {
 font-size: 36px;
 letter-spacing: 0.1em;
 }
-
-.athlets_players {
- margin-left: 190px;
- margin-right: 190px;
-}
-    
-    
     
     
 /*be active*/
@@ -254,6 +252,8 @@ letter-spacing: 0.1em;
 .be-active-number-02 span {
   margin: auto;
 }    
+   
+    
     
 /* footer*/ 
 .footer {
