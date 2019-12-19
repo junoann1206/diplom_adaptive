@@ -126,7 +126,6 @@ h2 {
  
 .header_block{
   margin-top: 50px;
-  margin-left: 190px; 
 }  
     
 .athlets-desktop {
@@ -136,7 +135,7 @@ h2 {
 .pic_football {
   position: absolute;
   margin-top: 40px;
-  margin-left: 190px;
+  padding-left: 190px;
 }
     
 .card_1-desktop {
@@ -156,7 +155,7 @@ h2 {
     
 .pic_bascket {
   margin-top: -160px;
-  padding-left: 190px;
+  padding-right: 190px;
   position: absolute;
   right: 0;
 }
