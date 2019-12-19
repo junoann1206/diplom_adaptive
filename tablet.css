@@ -252,7 +252,7 @@ letter-spacing: 0.1em;
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
+  flex-direction: row;
   margin-top: 150px;
   margin-bottom: 260px;
 }  
