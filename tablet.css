@@ -248,6 +248,16 @@ letter-spacing: 0.1em;
   margin-top: 9em;
 }
 
+.group-button-footer {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 150px;
+  margin-bottom: 260px;
+}  
+    
 .title-footer-1 {
   color: #ffffff;
   font-size: 80px;
