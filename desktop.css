@@ -10,12 +10,12 @@ h1 {
     
 h2 {
   color:#e7e7e7;
-  font-size: 60px;
+  font-size: 80px;
   font-weight: bold;
   text-transform: uppercase; 
   margin-left: 15px;
 }
-
+ 
 .header {
   position: relative;
   background-image: url("https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/football_1920.jpg");
@@ -65,9 +65,9 @@ h2 {
 
 .group-button {
   margin: 0 auto;
-  padding-top: 222px; 
   padding-bottom: 90px; 
-
+  padding-top: 222px;
+  
   display: flex;
   justify-content: center;
   align-items: center;
@@ -114,16 +114,16 @@ h2 {
 /* Athlets*/
 .sportmen {
   display: flex;
-  flex-direction: row;
   width: 100%;
   margin: 0 auto;
 }
 
 .sportmen-desktop {
   width: 100%;
-  margin-top: 250px;
+  margin: 0 auto;
+  margin-top: 120px;
 }
-    
+ 
 .header_block{
   margin-top: 50px;
 }  
@@ -135,30 +135,50 @@ h2 {
 .pic_football {
   position: absolute;
   margin-top: 40px;
+  padding-left: 190px;
 }
-
+    
 .card_1-desktop {
-  padding-left: 700px;
+  padding-left: 800px;
+  padding-right: 190px;
 }
 
 .card_2-desktop {
-  padding-left: 700px;
+  padding-left: 800px;
+  padding-right: 190px;
 }
 
 .card_3-desktop {
-  padding-left: 700px;
+  padding-left: 800px;
+  padding-right: 190px;
 }
-
-
+    
 .pic_bascket {
-margin-top: -160px;
-position: absolute;
-right: 0;
+  margin-top: -120px;
+  padding-right: 190px;
+  position: absolute;
+  right: 0;
 }
 
 .header-text-desktop{
  padding-left: 170px;
-}      
+}    
+.card_1-desktop-players {
+  padding-left: 190px;
+  padding-right: 190px;
+}
+
+.card_2-desktop-players {
+  padding-left: 190px;
+  padding-right: 190px;
+}
+
+.card_3-desktop-players {
+  padding-left: 190px;
+  padding-right: 190px;
+}    
+    
+    
     
 .number , .number-2, .number-2_1 {
   margin-right: 15px;
@@ -168,21 +188,22 @@ right: 0;
   color: #000000;
   letter-spacing: 0.05em; 
   line-height: 1.8em;
-  font-size: 16px;
+  font-size: 20px;
   width: 746px;
 }
 
 .card-content-sportmen_1 {
   color: #ffffff;
   letter-spacing: 0.05em; 
-  font-size: 16px;
+  font-size: 20px;
 }
 
 .card-name {
-font-size: 32px;
+font-size: 36px;
 letter-spacing: 0.1em;
 }
-
+    
+    
 /*be active*/
 .be-active {
   display: flex;
@@ -225,6 +246,12 @@ letter-spacing: 0.1em;
   font-size: 28px;
 }
 
+.border-number {
+  border-bottom: 4px #8f7bc8 solid;
+}    
+
+    
+    
 .be-active-number-02 {
   position: absolute;
   top: 50px;
@@ -238,10 +265,6 @@ letter-spacing: 0.1em;
   font-weight: bold;
   font-size: 28px;
 }
-    
-.border-number {
-  border-bottom: 4px #8f7bc8 solid;
-}    
 
 .be-active-number span {
   margin: auto;
@@ -249,8 +272,8 @@ letter-spacing: 0.1em;
 
 .be-active-number-02 span {
   margin: auto;
-}
-    
+}    
+   
     
     
 /* footer*/ 
