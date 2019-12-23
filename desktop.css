@@ -155,6 +155,10 @@ margin-top: -160px;
 position: absolute;
 right: 0;
 }
+
+.header-text-desktop{
+ padding-left: 170px;
+}      
     
 .number , .number-2, .number-2_1 {
   margin-right: 15px;
@@ -165,6 +169,7 @@ right: 0;
   letter-spacing: 0.05em; 
   line-height: 1.8em;
   font-size: 16px;
+  width: 746px;
 }
 
 .card-content-sportmen_1 {
