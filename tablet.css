@@ -141,15 +141,15 @@ h2 {
 }
    
 .card_1-desktop {
-  padding-left: 450px;
+  padding-left: 200px;
 }
 
 .card_2-desktop {
-  padding-left: 450px;
+  padding-left: 200px;
 }
 
 .card_3-desktop {
-  padding-left: 450px;
+  padding-left: 200px;
 }  
 .number , .number-2, .number-2_1 {
   margin-right: 15px;
@@ -167,7 +167,6 @@ h2 {
   color: #ffffff;
   letter-spacing: 0.05em; 
   font-size: 16px;
-  width: 420px;
 }
 
 .card-name {
