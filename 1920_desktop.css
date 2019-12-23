@@ -121,7 +121,7 @@ h2 {
 .sportmen-desktop {
   width: 100%;
   margin: 0 auto;
-  margin-top: 250px;
+  margin-top: 120px;
 }
  
 .header_block{
@@ -159,7 +159,24 @@ h2 {
   position: absolute;
   right: 0;
 }
-  
+
+.card_1-desktop-players {
+  padding-left: 800px;
+  padding-right: 190px;
+}
+
+.card_2-desktop-players {
+  padding-left: 800px;
+  padding-right: 190px;
+}
+
+.card_3-desktop-players {
+  padding-left: 800px;
+  padding-right: 190px;
+}    
+    
+    
+    
 .number , .number-2, .number-2_1 {
   margin-right: 15px;
 }
