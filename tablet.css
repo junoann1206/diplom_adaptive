@@ -123,6 +123,7 @@ h2 {
 .pic_football {
   position: absolute;
   margin-top: 40px;
+  margin-left:-100px;
 }
     
 .pic_bascket {
