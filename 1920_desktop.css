@@ -160,6 +160,9 @@ h2 {
   right: 0;
 }
 
+.header-text-desktop{
+ padding-left: 170px;
+}    
 .card_1-desktop-players {
   padding-left: 190px;
   padding-right: 190px;
