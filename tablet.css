@@ -131,6 +131,15 @@ h2 {
   position: absolute;
   right: 0;
   }
+    
+.be-active-image {
+  width: 100%;
+}
+
+.be-active-image img {
+  width: 100%;
+}
+   
 .card_1-desktop {
   padding-left: 500px;
 }
