@@ -141,15 +141,15 @@ h2 {
 }
    
 .card_1-desktop {
-  padding-left: 280px;
+  padding-left: 300px;
 }
 
 .card_2-desktop {
-  padding-left: 280px;
+  padding-left: 300px;
 }
 
 .card_3-desktop {
-  padding-left: 280px;
+  padding-left: 300px;
 }  
 .number , .number-2, .number-2_1 {
   margin-right: 15px;
@@ -161,6 +161,14 @@ h2 {
   line-height: 1.8em;
   font-size: 16px;
 }
+    
+.card-content-players {
+  color: #000000;
+  letter-spacing: 0.05em; 
+  line-height: 1.8em;
+  font-size: 16px;
+  width: 500px;
+}    
 
 .card-content-sportmen_1 {
   color: #ffffff;
